@@ -1,0 +1,104 @@
+.question-section {
+    width: 1500px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+.question-section p {
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+h2 {
+    background-color:grey;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    display: flex;
+}
+
+.Q1{
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.Int2{
+    display: inline-block;
+    width: 95%;
+    height: 200px;
+    margin-right: 50px;
+}
+
+.Int1{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 92%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.Int3{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 92%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.color{
+    color: red;    
+}
+
+.post {
+    margin-top: 15px;
+    padding: 15px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    background-color: grey;
+    color: black;
+    font-size: 18px;
+    margin-left: 1250px;
+}
+
+
+/* src/Form.css */
+
+.Form-part {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.Form-part label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.Int1, .Int2, .Int3, .AF1, .AF2 {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.post {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.post:hover {
+    background-color: #0056b3;
+}

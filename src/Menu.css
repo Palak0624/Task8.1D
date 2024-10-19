@@ -1,0 +1,12 @@
+.search-bar {
+    display: block;
+    width: 100%;
+    background-color: grey;
+}
+
+.search-bar p {
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    display: block;
+}
